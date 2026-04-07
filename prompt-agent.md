@@ -103,7 +103,7 @@ Entregar funcionando
 Melhorar depois (se necessário)
 ✅ CHECKPOINT FINAL
 
-Sempre terminar com:
+
 
 “Precisa de banco?”
 “Quer adicionar autenticação?”
